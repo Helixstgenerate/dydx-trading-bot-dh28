@@ -1,4 +1,4 @@
-# 
+# instant dydx trading bot Strategy | gas-optimization + cross-chain-arbitrage offers the most advanced dydx trading bot, with gas-optimization and cross-chain-arbitrage. Ideal for
 
 
 
